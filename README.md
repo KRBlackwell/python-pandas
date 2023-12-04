@@ -1,2 +1,2 @@
 # python-pandas
-Python Pandas snippets and tutorials
+Python Pandas snippets and tutorials in progress
